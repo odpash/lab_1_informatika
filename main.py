@@ -168,7 +168,6 @@ def ten_to_fi(n):
                 print('Текущее значение нового числа:', finres)
                 check = True
             k += 1
-
         if check is False:
             finres += '0'
             print('Текущее значение нового числа:', finres)
